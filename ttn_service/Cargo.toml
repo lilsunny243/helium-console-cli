@@ -7,7 +7,7 @@ edition = "2018"
 [dependencies]
 hyper = "0.14"
 reset-router = "0.8"
-tokio = { version = "0.2", features = ["full"] }
+tokio = { version = "1.19", features = ["full"] }
 http = "0.2"
 futures = "0.3"
 helium-console = { path = "../lib" }
