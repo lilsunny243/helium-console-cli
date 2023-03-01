@@ -5,7 +5,7 @@ authors = ["lthiery <me@louisthiery.com>"]
 edition = "2018"
 
 [dependencies]
-hyper = "0.13"
+hyper = "0.14"
 reset-router = "0.8"
 tokio = { version = "0.2", features = ["full"] }
 http = "0.2"
